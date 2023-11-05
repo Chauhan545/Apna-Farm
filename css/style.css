@@ -328,7 +328,7 @@
            /* 02 Banner Section */
            
            .banner_section {
-               background: url('../images/banner-slide/Banner-1.jpg');
+               background: url('../Banner-1.jpg');
                background-repeat: no-repeat;
                background-size: cover;
                background-position: center;
